@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">EasyCheckIn</string>
+    <string name="title_lbl">Welcome to EasyCheckIn</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="help">Help</string>
+    <string name="no_email">No email</string>
+    <string name="no_password">No password</string>
+    <string name="btn_scan_label">Scan code</string>
+    <string name="btn_accounts_label">Manage account</string>
+    <string name="btn_show_password">Show password</string>
+    <string name="btn_hide_password">Hide password</string>
+    <string name="btn_edit_account">Change login credentials</string>
+    <string name="btn_add_account">Add account</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="label_account_view">Napier account</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="error_both_fields_are_required">Both fields are required.</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_save">Save</string>
+    <string name="lbl_account_edit_title">Change Email and Password</string>
+    <string name="toast_error">An error has occurred.</string>
+    <string name="toast_ocr_error">An error has occurred while processing the image</string>
+    <string name="toast_camera_launch_error">Error starting camera</string>
+    <string name="toast_no_code">No code has been acquired</string>
+    <string name="toast_no_account">Please set up your account first</string>
+    <string name="toast_db_error">An error has occurred while retrieving account credentials</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="auth_title">Authentication</string>
+    <string name="auth_body">Please authenticate with your biometrics or password to continue</string>
+    <string name="toast_auth_error">Authentication failed, please try again</string>
+
+    <string name="part_1_title">Part 1: Account set-up</string>
+    <string name="slide_1_text">To start using the app, you need to add your Napier account. To start, click the \"Manage account\" button in the main menu.</string>
+    <string name="slide_2_text">Click the \"Add account\" button.</string>
+    <string name="slide_3_text">Enter your Napier email and password and click \"Save\".</string>
+    <string name="part_2_title">Part 2: Code scanning</string>
+    <string name="slide_4_text">To scan a check-in code, click the \"Scan code\" button in the main menu.</string>
+    <string name="slide_5_text">If the app asks for camera permission, select \"While using the app\."</string>
+    <string name="slide_6_text">Point the camera at the code. The app will automatically scan the code and display it on the bottom part of the screen.</string>
+    <string name="slide_7_text">If the app picks up a wrong code, click the scanner reset button.</string>
+    <string name="slide_8_text">To check-in with the displayed code, click the \"Confirm\" button.</string>
+    <string name="part_3_title">Part 3: Check-in</string>
+    <string name="slide_9_text">On first check-in, the app will navigate to Microsoft login screen and log in automatically. When requested, enter the 2FA code in your authenticator app.</string>
+    <string name="slide_10_text">After login, the app will navigate to the check in menu of the Napier website. Select the event you want to check in to and click the \"Check in\" button.</string>
+    <string name="slide_11_text">The app will automatically enter the code and finish the check in.</string>
+
+</resources>
